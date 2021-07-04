@@ -1,0 +1,17 @@
+{
+  "name": "electricscooterhireappsystem-",
+  "version": "1.0.0",
+  "description": "## User Case",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tyson",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
